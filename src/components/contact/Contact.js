@@ -63,7 +63,7 @@ function Contact() {
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="이름" name="user_name" />
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="제목" name="user_subject" />
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="이메일" name="user_email" />
-            <textarea style={{backgroundColor: darkMode && "#333"}} rows="10" placeholder="내용" name="message"></textarea>
+            <textarea style={{backgroundColor: darkMode && "#333"}} rows="7" placeholder="내용" name="message"></textarea>
             <button>보내기</button>
             { done && "메일 감사합니다."}
           </form>
