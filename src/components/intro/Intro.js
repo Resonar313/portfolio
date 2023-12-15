@@ -13,16 +13,18 @@ function Intro() {
           <h1>방문해주셔서 감사합니다.</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
-              <div className="i-title-item">HTML & CSS</div>
-              <div className="i-title-item">Javascript</div>
+              <div className="i-title-item">Java</div>
+              <div className="i-title-item">Spring</div>
+              <div className="i-title-item">JavaScript</div>
               <div className="i-title-item">React.js</div>
-              <div className="i-title-item">Java, SQL</div>
-              <div className="i-title-item">SpringBoot</div>
+              <div className="i-title-item">OracleDB</div>
+              <div className="i-title-item">MySQL</div>
             </div>
           </div>
           <p className="i-desc">
-            저는 현재 프런트엔드 개발자를 목표로 준비하고 있습니다.
-            다양한 기술을 공부하고 실력을 쌓아 누구나 편리하게 사용할 수 있는 서비스를 만들어 제공하는 것이 제 꿈입니다.<br/>
+            늘 책임감을 가지고 업무에 임하는 개발자입니다.
+            현대카드 신판기획팀 CMS 개발에 참여하여, 고객 대상 캠페인 및 마케팅 관련 프로젝트에 기여한 경험이 있습니다.
+            꼼꼼하고 체계적인 업무 태도로 개발에 임하였으며, 완료 후에는 내부 문서로 일목요연하게 정리하여 팀원들에게 필요 내용을 인수인계 하였습니다.<br/>
             
           </p>
         </div>
